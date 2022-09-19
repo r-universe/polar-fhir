@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fhircrackr"]
+	path = fhircrackr
+	url = https://github.com/polar-fhir/fhircrackr
+	shallow = true
+	registered = true

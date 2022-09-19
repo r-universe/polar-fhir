@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "fhircrackr",
+    "oncran": true
+  }
+]
